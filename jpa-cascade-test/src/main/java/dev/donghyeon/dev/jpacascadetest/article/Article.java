@@ -36,4 +36,13 @@ public class Article {
     public static Article create(String title, List<Comment> comments)  {
         return new Article(title, comments);
     }
+
+    @Override
+    public String toString() {
+        return "Article{" +
+                "id=" + id +
+                ", title='" + title + '\'' +
+                ", comments=" + comments +
+                '}';
+    }
 }

@@ -1,0 +1,11 @@
+POST http://localhost:8080/v1/article
+Content-Type: application/json
+
+{
+  "title" : "게시글"
+}
+
+###
+
+DELETE http://localhost:8080/v1/comment/1
+

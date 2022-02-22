@@ -31,4 +31,12 @@ public class Comment {
     public static Comment create(String content) {
         return new Comment(content);
     }
+
+    @Override
+    public String toString() {
+        return "Comment{" +
+                "id=" + id +
+                ", content='" + content + '\'' +
+                '}';
+    }
 }
