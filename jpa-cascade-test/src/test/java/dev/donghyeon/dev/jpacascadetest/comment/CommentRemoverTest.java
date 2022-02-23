@@ -53,7 +53,7 @@ class CommentRemoverTest {
     @Test
     @Transactional
     void removeComment() {
-        commentRemover.removeComment(comment1.getId());
+        commentRemover.removeComment(article.getId());
         
         entityManager.flush();
     }
