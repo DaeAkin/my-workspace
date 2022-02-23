@@ -1,4 +1,4 @@
-jpa-cascade-test/HELP.md
+HELP.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -35,11 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-.DS_Store
-
-syncronized-deadlock-test/gradle/wrapper/
-
-*.bat
-
-syncronized-deadlock-test/gradlew
