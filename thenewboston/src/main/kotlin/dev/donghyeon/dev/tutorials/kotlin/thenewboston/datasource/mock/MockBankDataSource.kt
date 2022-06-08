@@ -4,7 +4,7 @@ import dev.donghyeon.dev.tutorials.kotlin.thenewboston.datasource.BankDataSource
 import dev.donghyeon.dev.tutorials.kotlin.thenewboston.model.Bank
 import org.springframework.stereotype.Repository
 import java.lang.IllegalArgumentException
-import java.util.NoSuchElementException
+import kotlin.NoSuchElementException
 
 @Repository
 class MockBankDataSource : BankDataSource {
@@ -27,5 +27,23 @@ class MockBankDataSource : BankDataSource {
         }
         banks.add(bank)
         return bank
+    }
+
+    override fun updateBank(bank: Bank): Bank {
+        val currentBank = banks.firstOrNull {
+            it.accountNumber == bank.accountNumber
+        } ?: throw NoSuchElementException("Could not find a bank with account name")
+        banks.remove(currentBank)
+        banks.add(bank)
+        
+        return bank
+    }
+
+    override fun deleteBank(accountNumber: String) {
+        val currentBank = banks.firstOrNull {
+            it.accountNumber == accountNumber
+        } ?: throw NoSuchElementException("Could not find a bank with account name")
+        
+        banks.remove(currentBank)
     }
 }
