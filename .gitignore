@@ -43,3 +43,9 @@ syncronized-deadlock-test/gradle/wrapper/
 *.bat
 
 syncronized-deadlock-test/gradlew
+
+*.gradle
+
+java-playground/gradle/wrapper/
+
+java-playground/gradlew
