@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  fluent-bit-test:
+    build:
+      context: .
+      dockerfile: Dockerfile # Spring 프로젝트의 기존 Dockerfile
+    container_name: fluent-bit-test
+    environment:
+      - LOG_LEVEL=INFO
+    volumes:
+      - ./logs:/app/logs  # Spring 프로젝트의 로그 디렉터리를 FluentD와 공유
+    ports:
+      - "8080:8080"  # Spring Boot 애플리케이션 포트
+
+  fluentd:
+    build:
+      context: ./fluentd
+      dockerfile: Dockerfile  # FluentD용 Dockerfile
+    container_name: fluentd
+    depends_on:
+      - mysql
+    volumes:
+      - ./logs:/app/logs       # Spring 프로젝트의 로그 디렉터리를 공유
+      - ./fluent.conf:/fluentd/etc/fluent.conf  # FluentD 설정 파일
+    ports:
+      - "24224:24224"          # FluentD 포트
+      - "24224:24224/udp"
+
+  mysql:
+    image: mysql:8
+    container_name: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: log_test
+    ports:
+      - "13309:3306" # MySQL 호스트 포트 매핑
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql # 초기화 스크립트 마운트
+
+volumes:
+  mysql_data:

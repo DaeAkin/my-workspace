@@ -1,0 +1,251 @@
+2024-12-30 07:43:37 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-30 07:43:37 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-30 07:43:37 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-30 07:43:37 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-30 07:43:37 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-30 07:43:37 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-30 07:43:37 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-30 07:43:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 565 ms
+2024-12-30 07:43:38 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-30 07:43:38 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-30 07:43:38 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.065 seconds (process running for 1.479)
+2024-12-30 07:49:31 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-30 07:49:31 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-30 07:50:52 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-30 07:50:52 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-30 07:50:53 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-30 07:50:53 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-30 07:50:53 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-30 07:50:53 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-30 07:50:53 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-30 07:50:53 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1370 ms
+2024-12-30 07:50:53 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-30 07:50:53 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-30 07:50:53 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 2.3 seconds (process running for 2.771)
+2024-12-31 01:06:24 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 01:06:24 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 01:06:26 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 01:06:26 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 01:06:26 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 01:06:26 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 01:06:26 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 01:06:26 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 01:06:26 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 01:06:26 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 592 ms
+2024-12-31 01:06:27 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 01:06:27 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 01:06:27 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.133 seconds (process running for 1.666)
+2024-12-31 01:07:13 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-31 01:07:13 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-31 01:07:13 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2024-12-31 01:07:13 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:07:15 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:07:37 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:12:37 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 01:12:37 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 01:12:37 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 01:12:37 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 01:12:37 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 01:12:37 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 01:12:37 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 01:12:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 789 ms
+2024-12-31 01:12:38 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 01:12:38 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 01:12:38 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.419 seconds (process running for 1.955)
+2024-12-31 01:13:51 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-31 01:13:51 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-31 01:13:51 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2024-12-31 01:13:51 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:13:51 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:14:46 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:14:46 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:14:47 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 01:45:48 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 01:45:48 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 01:49:59 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 01:49:59 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 01:50:00 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 01:50:00 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 01:50:00 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 01:50:00 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 01:50:00 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 01:50:00 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 901 ms
+2024-12-31 01:50:00 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 01:50:00 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 01:50:00 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.628 seconds (process running for 2.27)
+2024-12-31 01:59:51 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 01:59:51 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 02:00:51 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 02:00:51 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 02:00:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 02:00:52 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:00:52 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 02:00:52 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 02:00:52 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 02:00:52 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 897 ms
+2024-12-31 02:00:52 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:00:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 02:00:52 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.574 seconds (process running for 2.052)
+2024-12-31 02:13:36 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 02:13:37 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 02:14:41 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 02:14:41 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 02:14:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 02:14:42 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:14:42 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 02:14:42 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 02:14:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 02:14:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 744 ms
+2024-12-31 02:14:42 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:14:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 02:14:42 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.416 seconds (process running for 1.928)
+2024-12-31 02:15:35 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 02:15:35 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 02:16:38 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 02:16:38 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 02:16:39 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 02:16:39 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:16:39 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 02:16:39 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 02:16:40 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 02:16:40 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1054 ms
+2024-12-31 02:16:40 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:16:40 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 02:16:40 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 2.183 seconds (process running for 2.928)
+2024-12-31 02:19:52 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 02:19:52 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 02:21:00 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 02:21:00 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 02:21:01 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 02:21:01 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:21:01 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 02:21:01 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 02:21:01 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 02:21:01 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 866 ms
+2024-12-31 02:21:01 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 02:21:01 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 02:21:01 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.538 seconds (process running for 2.114)
+2024-12-31 04:23:48 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 04:23:48 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 04:28:55 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 04:28:55 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 04:28:56 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 04:28:56 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 04:28:56 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 04:28:56 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 04:28:56 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 04:28:56 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 740 ms
+2024-12-31 04:28:56 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 04:28:56 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 04:28:56 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.434 seconds (process running for 2.123)
+2024-12-31 04:38:00 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 04:38:00 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 04:39:46 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 04:39:46 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 04:39:47 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 04:39:47 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 04:39:47 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 04:39:47 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 04:39:47 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 04:39:47 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 797 ms
+2024-12-31 04:39:47 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 04:39:47 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 04:39:47 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.377 seconds (process running for 1.924)
+2024-12-31 04:40:31 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-31 04:40:31 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-31 04:40:31 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2024-12-31 04:40:31 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:40:34 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:42:39 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:42:43 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:42:55 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:42:55 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:44:20 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:45:28 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:45:35 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:45:36 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:45:36 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 04:50:49 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 04:50:49 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 04:55:44 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 04:55:44 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 04:55:45 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 04:55:45 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 04:55:45 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 04:55:45 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 04:55:45 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 04:55:45 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 788 ms
+2024-12-31 04:55:46 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 04:55:46 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 04:55:46 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.587 seconds (process running for 2.119)
+2024-12-31 05:05:30 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 05:05:30 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 05:06:49 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 05:06:49 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 05:06:50 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 05:06:50 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 05:06:50 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 05:06:50 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 05:06:50 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 05:06:50 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 742 ms
+2024-12-31 05:06:50 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 05:06:50 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 05:06:50 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.475 seconds (process running for 2.145)
+2024-12-31 05:09:49 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 05:09:50 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 05:10:51 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 05:10:51 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 05:10:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 05:10:52 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 05:10:52 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 05:10:52 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 05:10:53 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 05:10:53 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1082 ms
+2024-12-31 05:10:53 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 05:10:53 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 05:10:53 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 2.157 seconds (process running for 2.752)
+2024-12-31 05:11:36 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-31 05:11:36 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-31 05:11:36 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2024-12-31 05:11:37 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:11:37 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:33:21 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:33:26 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:36:51 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2024-12-31 05:36:51 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2024-12-31 05:38:01 INFO  d.d.d.f.FluentBitTestApplicationKt - Starting FluentBitTestApplicationKt v0.0.1-SNAPSHOT using Java 17.0.2 with PID 1 (/app/app.jar started by root in /app)
+2024-12-31 05:38:01 INFO  d.d.d.f.FluentBitTestApplicationKt - No active profile set, falling back to 1 default profile: "default"
+2024-12-31 05:38:02 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-12-31 05:38:03 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-12-31 05:38:03 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-12-31 05:38:03 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.34]
+2024-12-31 05:38:03 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-12-31 05:38:03 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 954 ms
+2024-12-31 05:38:03 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-12-31 05:38:03 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-12-31 05:38:03 INFO  d.d.d.f.FluentBitTestApplicationKt - Started FluentBitTestApplicationKt in 1.945 seconds (process running for 3.139)
+2024-12-31 05:38:58 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-31 05:38:58 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-12-31 05:38:58 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2024-12-31 05:38:58 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:38:59 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:17 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:37 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:49 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:50 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:50 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:50 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:56 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:56 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:40:56 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:17 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:17 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:17 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:18 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:18 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:18 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:18 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:18 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:19 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:42:19 INFO  d.d.dev.fluentbittest.api.TestApi - test
+2024-12-31 05:43:16 INFO  d.d.dev.fluentbittest.api.TestApi - test
